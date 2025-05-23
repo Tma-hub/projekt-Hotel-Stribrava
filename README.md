@@ -1,2 +1,2 @@
-# projekt-Hotel-Stribrava
-Projektu dle zadání od zákazníka
+# Projekt Hotel Stříbrava
+Cvičný projekt Digitální akademie web.
